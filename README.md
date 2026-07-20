@@ -236,16 +236,6 @@ If you're building something interesting, let's connect.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paalamugan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
 ## ☕ Support My Work
 
 If you find my open-source projects, experiments, or content useful, you can
