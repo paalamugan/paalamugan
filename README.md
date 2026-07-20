@@ -2,7 +2,7 @@
 
 # Hi, I'm Paalamugan 👋
 
-### Staff Software Engineer • Full-Stack Engineer • AI Builder
+### Staff Software Engineer • Full-Stack Engineer • Building AI-Powered Systems
 
 I build scalable software, AI-powered systems, developer tools, and automation
 that turn complex problems into simple, maintainable solutions.
